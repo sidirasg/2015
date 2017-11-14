@@ -6,17 +6,14 @@ The Lecture slides up to Lecture 1 are in this repository. Just click on the Lec
 
 ##Lab 1
 
-https://github.com/cs109/2015lab1
 
-The git lab can be read [here](https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
 
 ##HW 0
 
-You can read it [here](https://github.com/cs109/2015lab1/blob/master/hw0.ipynb).
 
-The repository is at:
 
-https://github.com/cs109-students/2015hw
+
+
 
 Switch to branch hw0.
 
@@ -35,4 +32,4 @@ At that point, homework repositories will be created for you.
 - Run the hw0.ipynb file, installing additional python libraries
 - run all the lab notebooks, including the git notebook, to get familiar with python, pandas and git
 
-By this point you should have a cs109-students/githubuserid-2015hw repository, - which you should clone, and carry out the homework flow on. (homework flow is in the README for https://github.com/cs109-students/2015hw and at the end of hw0.ipynb (https://github.com/cs109/2015lab1/blob/master/hw0.ipynb) and (https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
+
